@@ -1,2 +1,0 @@
-# bCrypt
-CF Bcrypt Lab
